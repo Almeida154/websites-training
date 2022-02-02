@@ -1,0 +1,51 @@
+.home {
+  &__img {
+    width: 250px;
+    position: absolute;
+    top: -16rem;
+    right: 1.5rem;
+    filter: brightness(0.5) opacity(0.3);
+  }
+
+  &__data {
+    padding-top: 5rem;
+  }
+
+  &__header {
+    position: relative;
+  }
+
+  &__title {
+    position: absolute;
+    top: -4rem;
+    left: 1rem;
+    font-size: $biggest-fs;
+    line-height: ($biggest-fs * 1.1);
+    background: $text-gradient;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+
+  &__subtitle {
+    font-size: $big-fs;
+    margin-bottom: $m-2-5;
+  }
+
+  &__title-description {
+    font-size: $h3-fs;
+    font-weight: 500;
+    margin-bottom: $m-1;
+  }
+
+  &__description {
+    margin-bottom: $m-2-5;
+    line-height: $normal-fs * 1.6;
+  }
+
+  &__price {
+    font-size: $h3-fs;
+    margin-left: $m-0-75;
+    font-weight: 500;
+  }
+}

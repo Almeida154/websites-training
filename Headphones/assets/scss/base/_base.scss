@@ -1,0 +1,47 @@
+/* === RESET / BASE === */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: $header-height 0 0;
+  font-family: $body-f;
+  font-size: $normal-fs;
+  background-color: $body-color;
+  color: $text-color;
+}
+
+h1,
+h2,
+h3 {
+  color: $title-color;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button,
+input {
+  border: none;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
