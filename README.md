@@ -47,40 +47,52 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
 
 <p align="center">
     Parallax Scrolling Animation
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="75%">
+</p>
+<p align="center">
+    <img alt="Some project" src="./Parallax Scrolling Animation/parallax-scrolling-mockup.png" width="50%">
 </p>
 
 <br>
 
 <p align="center">
     Coffee (3D)
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="75%">
+</p>
+<p align="center">
+    <img alt="Some project" src="./Coffee 3D/coffee-mockup.png" width="50%">
 </p>
 
 <br>
 
 <p align="center">
     Islands
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="75%">
+</p>
+<p align="center">
+    <img alt="Some project" src="./Islands/islands-mockup.png" width="50%">
 </p>
 
 <br>
 
 <p align="center">
     Analog Clock
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="75%">
+</p>
+<p align="center">
+    <img alt="Some project" src="./Analog Clock/analog-clock-mockup.png" width="50%">
 </p>
 
 <br>
 
 <p align="center">
     Headphones
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="75%">
+</p>
+<p align="center">
+    <img alt="Some project" src="./Headphones/headphones-mockup.png" width="50%">
 </p>
 
 <br>
 
 <p align="center">
-    Hallowen
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="75%">
+    Halloween
+</p>
+<p align="center">
+    <img alt="Some project" src="./Halloweeb/walloween-mockup.png" width="50%">
 </p>
