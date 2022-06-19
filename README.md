@@ -101,5 +101,5 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Halloween
 </p>
 <p align="center">
-    <img alt="Some project" src="./Halloween/walloween-mockup.png" width="40%">
+    <img alt="Some project" src="./Halloween/halloween-mockup.png" width="40%">
 </p>
