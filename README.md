@@ -49,7 +49,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Parallax Scrolling Animation
 </p>
 <p align="center">
-    <img alt="Some project" src="./Parallax Scrolling Animation/parallax-scrolling-mockup.png" width="50%">
+    <img alt="Some project" src="./Parallax Scrolling Animation/parallax-scrolling-mockup.png" width="40%">
 </p>
 
 <br>
@@ -58,7 +58,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Coffee (3D)
 </p>
 <p align="center">
-    <img alt="Some project" src="./Coffee 3D/coffee-mockup.png" width="50%">
+    <img alt="Some project" src="./Coffee 3D/coffee-mockup.png" width="40%">
 </p>
 
 <br>
@@ -67,7 +67,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Islands
 </p>
 <p align="center">
-    <img alt="Some project" src="./Islands/islands-mockup.png" width="50%">
+    <img alt="Some project" src="./Islands/islands-mockup.png" width="40%">
 </p>
 
 <br>
@@ -76,7 +76,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Analog Clock
 </p>
 <p align="center">
-    <img alt="Some project" src="./Analog Clock/analog-clock-mockup.png" width="50%">
+    <img alt="Some project" src="./Analog Clock/analog-clock-mockup.png" width="40%">
 </p>
 
 <br>
@@ -85,7 +85,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Headphones
 </p>
 <p align="center">
-    <img alt="Some project" src="./Headphones/headphones-mockup.png" width="50%">
+    <img alt="Some project" src="./Headphones/headphones-mockup.png" width="40%">
 </p>
 
 <br>
@@ -94,5 +94,5 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     Halloween
 </p>
 <p align="center">
-    <img alt="Some project" src="./Halloweeb/walloween-mockup.png" width="50%">
+    <img alt="Some project" src="./Halloweeb/walloween-mockup.png" width="40%">
 </p>
