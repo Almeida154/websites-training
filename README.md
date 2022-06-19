@@ -35,6 +35,7 @@ O objetivo desse repositório é treinar skills básicas, como HTML semântico e
 Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.io/websites-training/
 
 <br>
+<br>
 
 <p align="center">
     Personal Portfolio
@@ -43,6 +44,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     <img alt="Some project" src="./Portfolio/personal-portfolio-mockup.png" width="50%">
 </p>
 
+<br>
 <br>
 
 <p align="center">
@@ -53,6 +55,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
 </p>
 
 <br>
+<br>
 
 <p align="center">
     Coffee (3D)
@@ -61,6 +64,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     <img alt="Some project" src="./Coffee 3D/coffee-mockup.png" width="40%">
 </p>
 
+<br>
 <br>
 
 <p align="center">
@@ -71,6 +75,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
 </p>
 
 <br>
+<br>
 
 <p align="center">
     Analog Clock
@@ -79,6 +84,7 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
     <img alt="Some project" src="./Analog Clock/analog-clock-mockup.png" width="40%">
 </p>
 
+<br>
 <br>
 
 <p align="center">
@@ -89,10 +95,11 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
 </p>
 
 <br>
+<br>
 
 <p align="center">
     Halloween
 </p>
 <p align="center">
-    <img alt="Some project" src="./Halloweeb/walloween-mockup.png" width="40%">
+    <img alt="Some project" src="./Halloween/walloween-mockup.png" width="40%">
 </p>
