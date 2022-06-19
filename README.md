@@ -38,7 +38,9 @@ Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.i
 
 <p align="center">
     Personal Portfolio
-    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup-mockup.png" width="75%">
+</p>
+<p align="center">
+    <img alt="Some project" src="./Portfolio/personal-portfolio-mockup-mockup.png" width="50%">
 </p>
 
 <br>
