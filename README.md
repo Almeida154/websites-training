@@ -10,12 +10,8 @@
 </p>
 
 <p align="center">
-  <img alt="ContacTS" src=".github/main.png" width="50%">
+  <img alt="ContacTS" src=".github/main.png" width="70%">
 </p>
-
-### 🚀 Tecnologias
-
-- [HTML](https://reactjs.org)
 
 <br>
 
@@ -34,6 +30,53 @@ O objetivo desse repositório é treinar skills básicas, como HTML semântico e
 
 <br>
 
-### 🤳 Projetos
+### 🖥️ Projetos
 
-O ContacTS é uma aplicação web desenvolvida para armazenar contatos. Um contato pode ter mais de um email e mais de um número cadastrado. A página de formulário tem prevenção contra erros, como CPF inválido ou campos obrigatórios não preenchidos. Além disso, o sistema conta com Theme Switcher e tela de carregamento.
+Todos os projetos estão hospedados no GitHub Pages: https://almeida154.github.io/websites-training/
+
+<p align="center">
+    Personal Portfolio
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
+
+<br>
+
+<p align="center">
+    Parallax Scrolling Animation
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
+
+<br>
+
+<p align="center">
+    Coffee (3D)
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
+
+<br>
+
+<p align="center">
+    Islands
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
+
+<br>
+
+<p align="center">
+    Analog Clock
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
+
+<br>
+
+<p align="center">
+    Headphones
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
+
+<br>
+
+<p align="center">
+    Hallowen
+    <img alt="Some project" src="./Portfolio/personal-portfolio.png" width="75%">
+</p>
